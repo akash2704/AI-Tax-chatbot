@@ -14,9 +14,10 @@ Clone the repository:
 
 ## Install the required packages
 - pip install -r requirements.txt
+<br>
 Download the Microsoft DialoGPT language model from the Hugging Face Model Hub and save it in the model folder.
 
 The chatbot will prompt you for input. You can ask it to calculate your income tax or ask for information on tax exemptions.
-##Contributing
+## Contributing
 
 Feel free to submit issues or pull requests if you find any bugs or want to add new features to the chatbot.
